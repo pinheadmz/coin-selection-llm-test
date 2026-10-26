@@ -1,0 +1,342 @@
+{
+ "name": "running_dry",
+ "seed": "public-1",
+ "long_term_fee_rate": 10,
+ "events": [
+  {
+   "type": "utxo",
+   "outpoint": "20eb98b472731bf0c06f7e278e5f5f167fb24b487697daa4141b374bd3bc6b1f:0",
+   "value": 87855,
+   "labels": [
+    "airdrop"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d58fa9aa7f0f9bf6152714f33f922aaa34e87268137e58842d2086227e69e125:0",
+   "value": 591138,
+   "labels": [
+    "airdrop"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "736bbb7fcd6302a4eaa44b72bca192782e44417b59a42186449145677ac9313d:3",
+   "value": 246501,
+   "labels": [
+    "airdrop"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "bfba69ea52037e7064cec33f5d94ee207c3b828ee4fd845e6800bed0a0b6f23e:1",
+   "value": 568265,
+   "labels": [
+    "loan_repayment"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "df90e1e8051d9ee2424af65264d2bebfd99ee62d6d227892a234f0a95db93109:0",
+   "value": 1142,
+   "labels": [
+    "loan_repayment"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a5cf5d699c374436dab8194a31f14e6c6c5cd2f4952a352b3ead27c987b8c6f7:3",
+   "value": 46936,
+   "labels": [
+    "exchange_nokyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c5b15f9d7886c787b3b75effa1b1cdb10f57e958b25657dc0e9978d2302f4d08:3",
+   "value": 39370,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2a506d366ebc46ae3f5d1aa8ff2e0e9327dda22aafa06885bddd63ac1a5f8097:0",
+   "value": 425880,
+   "labels": [
+    "loan_repayment"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fe6689cd7b2669235aefd8b54a8b16e93944f6a608cb270ca38300d308d3804f:2",
+   "value": 67707,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "90b0e03d0955e89197dbdf3ac2da2a8019b6f61f632153eeb17e709c3f16d2e0:1",
+   "value": 25534,
+   "labels": [
+    "exchange_nokyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "29f083dff7e332257e9d42d595e2e236637b2df2af6bdbb42064257af3e6f08f:2",
+   "value": 412,
+   "labels": [
+    "exchange_nokyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "6d82a4f8ee349e43f58013daf6fe71d07b401e3258f754a61c2f1167fe6e5098:0",
+   "value": 693815,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "8d72cdb8ebd6bb0015f169a3fb873ef10bb987b88696aee951ca54c4fc6574d7:1",
+   "value": 536406,
+   "labels": [
+    "loan_repayment"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "310e7c72553a2d246c8792950f2cd84e8e723588964848942868fc4cfeb77f29:1",
+   "value": 159711,
+   "labels": [
+    "loan_repayment"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "25a9a495e9004ffe5718c2d9f6c561b9f2109158e47975ccafc9028f1c43ab79:1",
+   "value": 58737,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "be73786eee4a1b8ea083084de832414375aacea06e81ff64e168d27bb6e085a0:3",
+   "value": 462341,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3b5baf34d599fc5c78341d216e3d5d55df90c28e96c2dc7b206b8e4a19460297:3",
+   "value": 4763,
+   "labels": [
+    "airdrop"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3fcd429793e5a815bfaf851f5d059f20bc09da947690da1409f8cb058a4adbbc:3",
+   "value": 103763,
+   "labels": [
+    "exchange_nokyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a43e400eeaad1748a111c997d38163679e4102eace895a10dfe4e78039fde163:1",
+   "value": 56499,
+   "labels": [
+    "exchange_nokyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d564727c6c8a97fb19ae2cc913611a54e4471a9a56ab1efb1946ea728db2de51:0",
+   "value": 182284,
+   "labels": [
+    "loan_repayment"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p000",
+   "amount": 120000,
+   "fee_rate": 6,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p001",
+   "amount": 210000,
+   "fee_rate": 8,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p002",
+   "amount": 99909,
+   "fee_rate": 26,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p003",
+   "amount": 92664,
+   "fee_rate": 9,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p004",
+   "amount": 220000,
+   "fee_rate": 17,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p005",
+   "amount": 97203,
+   "fee_rate": 5,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p006",
+   "amount": 150000,
+   "fee_rate": 27,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p007",
+   "amount": 140000,
+   "fee_rate": 7,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p008",
+   "amount": 140000,
+   "fee_rate": 32,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p009",
+   "amount": 210000,
+   "fee_rate": 37,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p010",
+   "amount": 164931,
+   "fee_rate": 8,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p011",
+   "amount": 200000,
+   "fee_rate": 10,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p012",
+   "amount": 185177,
+   "fee_rate": 38,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p013",
+   "amount": 20000,
+   "fee_rate": 22,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p014",
+   "amount": 297959,
+   "fee_rate": 36,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p015",
+   "amount": 120000,
+   "fee_rate": 33,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p016",
+   "amount": 170000,
+   "fee_rate": 10,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p017",
+   "amount": 34020,
+   "fee_rate": 38,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p018",
+   "amount": 181850,
+   "fee_rate": 37,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p019",
+   "amount": 137960,
+   "fee_rate": 6,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p020",
+   "amount": 105516,
+   "fee_rate": 37,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p021",
+   "amount": 53409,
+   "fee_rate": 9,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p022",
+   "amount": 290000,
+   "fee_rate": 5,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p023",
+   "amount": 4540000,
+   "fee_rate": 24,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p024",
+   "amount": 4410000,
+   "fee_rate": 11,
+   "priority": "privacy"
+  }
+ ]
+}

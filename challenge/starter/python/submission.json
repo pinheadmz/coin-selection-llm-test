@@ -1,0 +1,5 @@
+{
+  "language": "python",
+  "build": [],
+  "run": ["python3", "solution.py"]
+}

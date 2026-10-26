@@ -1,0 +1,5 @@
+{
+  "language": "cpp",
+  "build": ["g++", "-std=c++17", "-O2", "-Wall", "-Wextra", "-o", "solution", "solution.cpp"],
+  "run": ["./solution"]
+}

@@ -1,0 +1,524 @@
+{
+ "name": "privacy_first",
+ "seed": "public-1",
+ "long_term_fee_rate": 10,
+ "events": [
+  {
+   "type": "utxo",
+   "outpoint": "4657691e0042726e2afad654278cc1ffa3791e04e35d44809f364108eb83460d:1",
+   "value": 706721,
+   "labels": [
+    "lightning_close"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "569e313c373607c04b75ef826f7d25e4cb0b3bfadefd80b3208867a50eaebce7:1",
+   "value": 1067436,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9982c10f36c34f4d2100975b5a762efd12a3bf60046af3918559009ba012fa15:1",
+   "value": 486950,
+   "labels": [
+    "lightning_close"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e2ecb6c11f8fbf1b2d118266d52128492eced3d6201247e706e06f6bb926de77:1",
+   "value": 122451,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c31fbe1a1ced0b00b3936d7517864a216c38760094565757083d06ea9c7701d5:1",
+   "value": 1356136,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a9315167d903b1e9e46f8e8d411df928afd27a1ac715e87979ebeaca4b419274:1",
+   "value": 37028,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "60a62fe8da145e87c0956dc70f6a9d16ac543df857e5b4ee35653967236dc266:1",
+   "value": 26028,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5a7fb759c71c4e71b852cdfa65af5cc64bc3e85faa4d40e2c8e8ac59f4aaae95:1",
+   "value": 23163,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c5d947dd682ee994df1f844f03284161628c5f4e2628baf16b3ba7551435d804:1",
+   "value": 35013,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4bb6185e40bfd074ada27ac2e0086b47b8735ccabd0f8fadfd90e624e2004649:3",
+   "value": 1110,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "523865321877f40cec8c5b291467b4ec92e55e852c2da8256ab67387a6a39abe:0",
+   "value": 1604855,
+   "labels": [
+    "family"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "093001e08f11d738ec81ea180d67de105a28313a057b7f9892cfe4afae6071a0:3",
+   "value": 20905,
+   "labels": [
+    "family"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "184936a76a7bc1d4cdefdcf8099e2aabc79db68405b37e3d1509e08735445d53:3",
+   "value": 46884,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fc6161ee5da2e804c7518f0afcef7b309e923a835a600f760014d2d2dfc6db0f:1",
+   "value": 216817,
+   "labels": [
+    "faucet"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f89653780ab6128940695817a35393dff55345839788e4ec4dd26c2c335b0b23:2",
+   "value": 361607,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "7d5b376b4b7084c8b55d5808d5c22a5daa3563fc83423181a85d64dcff06dd41:2",
+   "value": 102551,
+   "labels": [
+    "lightning_close"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "68466142c01bca26a3a2b0d9fb5dd88eb7293336e7ec1b2e8b4668eb053b9411:3",
+   "value": 14816,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "153c28b014ea595aa6b8338464fe338b7e4716a3c045ad627596113a331aa2bd:1",
+   "value": 10746,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e569459bf56da77e91d9d23d8d8a232289d4ed56a61ea9a71ac98221b4f00a08:3",
+   "value": 800546,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "8a4cdb3a5d259e08c4f41f8e8bf1e875d701f7ba580dd2f8bf6dac65a21002b0:0",
+   "value": 227946,
+   "labels": [
+    "faucet"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1255c8c2917e0dbf276ba230d4254c47096743ff429770519c4301c7e256710f:0",
+   "value": 121538,
+   "labels": [
+    "family"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1f6304e4ca9aae03c487ccb1007f50b28251cbd57705d939725752da0555217b:2",
+   "value": 163286,
+   "labels": [
+    "faucet"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c8912969cd265b24b760313392dad712cbeb17c1a7d07938b3f5de73945389cb:1",
+   "value": 49180,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "40967411d87d0c5f0125c51c465f36ac013e0110d0a99e59d3262a18af9e5e3e:0",
+   "value": 1669113,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "45753dae6643d670a9789d8a499aed782f47f68cb9469ca6660a17d3cd73a193:3",
+   "value": 95152,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2a75f39667a9c2773a962409afa211edcea33748939ea5197ce9e8bfe9a8682e:1",
+   "value": 20625,
+   "labels": [
+    "faucet"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9374eadccecb4baa3d80f64ef8a0eb125bfd95ee91f9bfddc87c47e2ef8a3bf6:0",
+   "value": 855488,
+   "labels": [
+    "salary"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3ed6ead480db9778247e4c3c8c0c7745cd99b96ae6344429aee010c22ee5e9c4:1",
+   "value": 270798,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "feaa2f25c847c02b7b573ee7bb08b335453bfe90db40dec6ee833170b3b97d14:3",
+   "value": 177589,
+   "labels": [
+    "faucet"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "db407dc1d322c26996cd1bdcda9f37220b0d5334fc2b70c8ab591f2e19502699:0",
+   "value": 539828,
+   "labels": [
+    "faucet"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p000",
+   "amount": 350000,
+   "fee_rate": 17,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p001",
+   "amount": 40000,
+   "fee_rate": 23,
+   "priority": "privacy"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "6fc0614fd44abe5fc9a9b517fda30c338905708e86a16067e31b0450dfc03e31:2",
+   "value": 715397,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p002",
+   "amount": 490000,
+   "fee_rate": 10,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p003",
+   "amount": 60990,
+   "fee_rate": 26,
+   "priority": "privacy"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "040b666912d53d9368ce0ad0edf3a280731c64e5964d6616d4e0a0c2641249ae:2",
+   "value": 1076978,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p004",
+   "amount": 10000,
+   "fee_rate": 18,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p005",
+   "amount": 28992,
+   "fee_rate": 8,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p006",
+   "amount": 30000,
+   "fee_rate": 3,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p007",
+   "amount": 20000,
+   "fee_rate": 10,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p008",
+   "amount": 360000,
+   "fee_rate": 9,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p009",
+   "amount": 10000,
+   "fee_rate": 3,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p010",
+   "amount": 211831,
+   "fee_rate": 2,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p011",
+   "amount": 47908,
+   "fee_rate": 10,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p012",
+   "amount": 240000,
+   "fee_rate": 6,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p013",
+   "amount": 80000,
+   "fee_rate": 2,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p014",
+   "amount": 13576,
+   "fee_rate": 4,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p015",
+   "amount": 79978,
+   "fee_rate": 19,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p016",
+   "amount": 60000,
+   "fee_rate": 3,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p017",
+   "amount": 218016,
+   "fee_rate": 17,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p018",
+   "amount": 20000,
+   "fee_rate": 7,
+   "priority": "balanced"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4b226e51bf7db05bd0dcc0bbb3c218a0ae12d04a7fb0261faaee23be86d93756:0",
+   "value": 12853,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p019",
+   "amount": 50000,
+   "fee_rate": 14,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p020",
+   "amount": 12059,
+   "fee_rate": 16,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p021",
+   "amount": 30000,
+   "fee_rate": 8,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p022",
+   "amount": 20000,
+   "fee_rate": 27,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p023",
+   "amount": 150000,
+   "fee_rate": 16,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p024",
+   "amount": 20000,
+   "fee_rate": 3,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p025",
+   "amount": 70000,
+   "fee_rate": 6,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p026",
+   "amount": 33521,
+   "fee_rate": 4,
+   "priority": "balanced"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f5704473d3dcc25bbc35a855819c61f70321ee1046b0f12438760b5dad667853:0",
+   "value": 1526,
+   "labels": [
+    "family"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p027",
+   "amount": 455043,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p028",
+   "amount": 190000,
+   "fee_rate": 17,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p029",
+   "amount": 10000,
+   "fee_rate": 8,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p030",
+   "amount": 33141,
+   "fee_rate": 4,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p031",
+   "amount": 90000,
+   "fee_rate": 3,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p032",
+   "amount": 370442,
+   "fee_rate": 5,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p033",
+   "amount": 117472,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p034",
+   "amount": 200000,
+   "fee_rate": 4,
+   "priority": "privacy"
+  }
+ ]
+}

@@ -1,0 +1,1511 @@
+{
+ "name": "dusty_wallet",
+ "seed": "public-1",
+ "long_term_fee_rate": 10,
+ "events": [
+  {
+   "type": "utxo",
+   "outpoint": "1f496c876a04782a3b7bbe56f7b0d64bb404a280fe853c9a5453a06d340d2999:2",
+   "value": 1509,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fe2a0bf341f50dfaafbf3103214572d1b9bdde6f08e4e10047929c007549b5f8:0",
+   "value": 17182,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "ee14a3551b3c5c15a8445c03f338b2cdd1d2ee995ea90eea98df237b59572135:2",
+   "value": 13537,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "150978b5ccd76aa1166f4c7e0b5cd19b21be1313fac43e4169b1ba070db4d354:2",
+   "value": 1340,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "8dc8fe4e225b21d5c84e7e120abaff60804e120ecdb64ff46e1efc76290b6955:1",
+   "value": 735,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a10349192263eb762a04c20643ffbdb62af2ad1a1dd6b5f3b7ccfc9a5225c80d:2",
+   "value": 71223,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "ecac57eef51cf1d55a9ada0bf5daf24041a0f80410a0535d29e793316231dbd5:3",
+   "value": 2245,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fe2e67545c27ea8e871b5cfa580abd078855b5a0150292247698e1d487a0c84a:3",
+   "value": 93947,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "97071427c684d6f5deff7572248da64dc3e2cef46bf903de3b35c6fa3e60d462:2",
+   "value": 1732,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "0571a5201af7b9bd2ce4263d902bbf2869ea5b6c1ff76d3ae56e542a53c7627e:3",
+   "value": 4223,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4026d1ade5479c9fc3df98f43aca5c73e12c664a6eeae57e95eb1dbe979484a4:2",
+   "value": 28410,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "45848bcbb82d43c32d09566be9e94ab59beae79c5178ec36acb629c175e431d2:3",
+   "value": 5594,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f1da8d85989bed17ceed4cbe8bd5917b635d140819207078099c1a179a1aa41a:1",
+   "value": 2835,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "967cca6613e496269b5102dd1ae89e880705a0b8347bb34e127f65a9f192fa07:2",
+   "value": 480,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "0b2727905a0d1b4dcdd70e9456d4a34adcae306134e95be53e1b9a814e4722db:3",
+   "value": 3877,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c25bdcd46f54b3a2d3a30093495f122ac81c2b7e0f86a12a2397fee0e25ffd90:3",
+   "value": 241671,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "54f5707e6532d76bd42e290a6825bef461a185e5ce50cc2c6f2ae1f7cd00f14c:3",
+   "value": 749,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d6e1a1011e2e06ccbe106463ad8c3482580a848e2e5e43c720fc16b2e2f6fddd:0",
+   "value": 10633,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f46cf58f0cb3c9fac095dc64348fe731d7d65a753a4c747cb3f4bcdbd3548fd5:1",
+   "value": 5566,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "10dde80cc299c908d02863a7e636c48375a715444f64d6918fbdaaab38b497a5:3",
+   "value": 17439,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b2c862a0087ff567deabd42e316aa6e05df4093feda4cb3ecd7a7a8d34e06922:3",
+   "value": 632,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9a30210b0eccf3c7c21fb70b4a7fe800cdd105c6ee4279c2fd5c48c9216e5831:1",
+   "value": 10906,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5807508a4c9f6fbc635cf5f04fefa2c69adf3dd9091b6da25507634591f47348:1",
+   "value": 23402,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b47ea0d848b6d4bdb3391fcd0484af94e7c56cbbc6dd8dba64f1508a5a17ff79:0",
+   "value": 26448,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "7c5472d7acde371d4dfa7d80766383b4b0e373eb4e6d3d0fe3590495ed46a0f7:1",
+   "value": 135330,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e8953d39eae5ea28e72e263cc9bfb76997d58b19760ca6197958f425cdebdbdc:3",
+   "value": 91868,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "733ee706b6d1a689d2e0efd3ba5f5547abe7cf695b372db2f1a14d5f64a4d75d:2",
+   "value": 5527,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "199f2699d1a7717b65c4c0615e273c7e14ad9da3acb33b61e31ec8dad86d70bb:1",
+   "value": 4075,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2b3eaec1671945a62e5d1ea53fbaef2edfc5ff476280a53bd97990b39e2eddd6:0",
+   "value": 1726,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "bcbe0769ed226fbabfb3dbcec913b0b5c24ed3cc6459580af4aa9fc841eddb59:1",
+   "value": 6004,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "6c259f704c6ffe97fbafe03ba969e831369ae1a697f7b75471187cf61942ec04:2",
+   "value": 32336,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fa5fa0f3f6667ca028bbabd271020dd6183f63de95dde09595ceaa5855c65ec2:1",
+   "value": 16693,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c65700acc23c89a6329d347efc895cc5150c86ea93789eff1f96e61b09620bc7:2",
+   "value": 1807,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "90a92aad50771f5e3edf261c44896135cfe8765f6b87a1a6bd15379107a727d5:3",
+   "value": 1944,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4dfe115449992550f8e989fe631e4da487770b2b6cb56d12dedb63de6b0dc2ed:1",
+   "value": 2646,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "48d85d03c8b6eddc18e524463d291fe99b7734eb117fc43d7948fe8c1abc16b3:1",
+   "value": 6631,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "efa0f9e036b509d0526b89b710a5d3d11e2dd10c7ed080edc7699c3123fe236f:2",
+   "value": 1370,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "701ceba6526e2ccdd8a162201f4505b38e6740573557470cead6c29e0c6e3f87:1",
+   "value": 665,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "42ab7d147edf5a5c4981623abb8db960461b4b98e428c0e148f35663bada0fc3:2",
+   "value": 14996,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "af78c24808cb1562e5d8363af668917304cadd5e547d4d6b67ecb1f9f53b1c5a:3",
+   "value": 309469,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c515bd15e50c6f05866b56a9ec0cc4340a09204b1726e82d6b5a4663ee4b358e:1",
+   "value": 5625,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "edb26b059b5e9c2b07935eeb63fbb12f0200f29b2d783c20cf3ac53d7a62fa06:0",
+   "value": 5814,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "448bd0e42872876e98ba0103396c7455b9505f676a87ad0bfc08d3404aa4f6f6:2",
+   "value": 2101,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "6fd166c92a84abc9239be82222313b353d101276696441391023e366f71306ac:3",
+   "value": 708,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fa535e9ff5e98485e614e200b7b5fe2d68b949f8c3e2137ea4960541f3356858:3",
+   "value": 7515,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "47605672190e14cb82a23d34e2dd776989883084a45e50b63697e23d356badfc:0",
+   "value": 5019,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a08702aa616cc38597b7effbcee33f361aaf9ccd460fe1b8bf62f3fdfd3c3e81:2",
+   "value": 4484,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4afcc5a6714daecffc4b2e541f6dbae8c3bdf454d4b4e839dcd6cf93d6ece382:0",
+   "value": 1303,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "12dbf3b047ddfd3490f47e7840b93268f7f75c70bb1ff24ed1f7548b0d4b2db3:1",
+   "value": 1303,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f2cf54e001b411003b1d8465a55927be70c3afd37d9f2509012081e0dfb7e37b:1",
+   "value": 30108,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "ded47f7dfae1f03b2c2c65e0da0c072f7f669cd9db64acf5dbb9252380289591:1",
+   "value": 5784,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2b9a65113bb7396b722db1bc0e37950075e22a04dba15df62d26785f75e56884:3",
+   "value": 11221,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b772321881922707b0fa30cef6d458ae18b1734d8690546caeeed551fc848016:3",
+   "value": 4150,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "02f3ed0ac64acd168d1b468984119ac1950af6da1485b152fc425e29fa994284:3",
+   "value": 17743,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "28d5b9aeb4246bec853622cadea2b597031284f7e362ab115219742c2c257931:2",
+   "value": 1905,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "bde98d7661ddbbe0f198694d8fc6a8ba3178fadd21223283193fb6049d34a42a:2",
+   "value": 474,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2ebe3dd353308648bb48428ccc2b668db5c9a218cf6e9993d3422bc6eb75b50e:3",
+   "value": 1800,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e7c210f869879fc5b6789580153117584f73cded51df9368ed04b6d2369e43c2:0",
+   "value": 20026,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "eb827ae29c9f452bf07deb06720572bcb0b123ab6997ad77d9a5b22f9e7a51c3:0",
+   "value": 13387,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9d88a449c7ea330a0442cfce1c7f7874ab9efe89d175a0258007182cfe70f6ba:3",
+   "value": 2580,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2ead5f1cdf22c318b2bb04dc3e4b1fc75b4126000d78e8e995e9e1aa7a36c8b5:1",
+   "value": 8819,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "aab9844c8a7790740cccb60d84a77a5b7a515cbad5c3b8992a84f580daf72292:0",
+   "value": 818,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d60e2dbd378bc876bd9d4f33ba7976321e86ae09de856705a0cdfde1a53b7c19:3",
+   "value": 4371,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "861f5cac8132e86210ef16369fe0db0c176634c1499cc4f7076f148df4ed1680:1",
+   "value": 1848,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1151785e96d3828ed30bacaf2cfb03578ad8cb35bf74c94d3d2b5cd4d3656ae3:3",
+   "value": 12686,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "25f8381d5f2c7a28b4830f6eaadd351d44ab737a8b8b9a88ed08df158efd32a1:3",
+   "value": 168576,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "615a30af989d5edf755ac1e62937db10ac3f9efcb0445dc697ad895fd8cc5ea6:3",
+   "value": 423,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "838f63dc0df6ac79be24de4a106ea76e414a4c8a564ad9cc0f1b68df242e615c:2",
+   "value": 7865,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5a5f6c89de1b9a958fdfb276ef3b1e09ed4d3ade9ed3a3f70e43511e6fef4ca6:1",
+   "value": 11732,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "18c56ef9c170cfe5c716e28e75e8462f76b9f5d3d26fab000d313068a80e00c2:1",
+   "value": 702,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fdd2de404f924bdef1d69b245dcc11ce9657ec634cb8da8192af0ef571e6005c:1",
+   "value": 2529,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9fb2f53f6868b3eadb1e0aeca765c6acc5a2a2356d8bb29f1e1e7f3f36c36af3:0",
+   "value": 1603,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "66a23fc05ff08f7523c5110ea9eccc6df0ded304cefbb1042ce1d07de8afdd34:3",
+   "value": 1907,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4f8f71b15952effb5bf5a4b0a563e91854a5130fb1dd5a288527c1c198e09ef5:0",
+   "value": 2921,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1fafa63d700119f6541376850133e6a380edf45690f3bb887ed81947bf769c00:3",
+   "value": 4759,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5518f2cfd5d0f04996cf86ee0ee8118ed21b3c29074a3add7e7de2c9467d6304:0",
+   "value": 6034,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b4c4c64b32c13a0d997dda1ad0fb4b141527d3d88e2450bee0dba29265951378:3",
+   "value": 2116,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5255a87c4a1b0140719c81f4fef7dc2cc5c3f2b755ef3493cb0d0e6e70942b38:0",
+   "value": 309777,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e9154f06f7242e01f414ae51a4e9e6d2069f1e62d54d3c628bde7ec11f8dec97:2",
+   "value": 1932,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fb4f859e027cf3d1fc3dcadf894af1183eea1d8dcaee1a637f9b97f8dc96d027:1",
+   "value": 3182,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d35d57e6b6708981548c12cb8ff01e90b22e85f43fab4dd14ca9a31068038ad5:2",
+   "value": 1219,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "0c9398ce67b8a436e51bd3d4dca196e1f00bf5d2ebc7263b180f08d7c0b8e7b5:1",
+   "value": 1851,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2f469141e3baf7678021692569d0c99cfcc4a97c67b8007dcf07e1458fdefc4f:3",
+   "value": 594,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4bc2b9c4c215c5629dfe2b9a3c32a275545a418eeb8c2758c59e4ef3b36084c8:3",
+   "value": 928,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "196e1fbe97553ee069cc0288a06572ffa760e143d2fb4d58283a437aad21d428:2",
+   "value": 1711,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e9e0279dd8dd8e41958de7f38af418aa489cf06eafd92ec9fe676f0a25b36897:3",
+   "value": 4906,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3a46bc704da8a91cd7c69d66a0059c3aa1cf30c883aa93db581961b648f33728:3",
+   "value": 2306,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1e2afc879c6ce5ed70628b0c644e0ce4e118073c5704ce1b2f7c15bb8486c265:0",
+   "value": 224253,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "44254c8fb387b5b42fcd589eec9d9bdbf652412812315ae23d8c559bf0b8d2c3:1",
+   "value": 5192,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e46517e04c4f65132db178ba6e8cf67c0183aec7b82434a68cdfecf41deb5488:1",
+   "value": 854,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2270a9c13caeb80751882b334aa46c7adae2f8161586760977873ce919c013a0:0",
+   "value": 3263,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4e307d159572ecc56b7ccea59a207de73b2861908ed20222437ca7f7111802e4:1",
+   "value": 85210,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b485bdf5c1d883f7194cf61b8f85f15cf6deeff89fe90f804d1df57c71acd5a8:0",
+   "value": 32740,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "323e137801232fa98fdad065c6997484b1ec509234365cc2ab8962610e6e5308:1",
+   "value": 3580,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f3a4929b370ae9bc71b72ffa75ec6bf29248d13be96c2c5c8ffe6713b7a9d9a5:1",
+   "value": 20316,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "ad8edd0eff0e79483cf58478c48c97ba56b5a594ef74894433e655a4aff71b25:0",
+   "value": 2544,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5572694c32299f566dd4e4c68b857f38097f0d585ec341318b140b692e89fd2e:1",
+   "value": 112858,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "dfaccf51b0be3dea72139f765c5bb8394dbb0e08025e4af267f403baa49c5e13:3",
+   "value": 196883,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "cb09366727d6436bc888a36c851255e173ee24d2089c092769ed49a2db874666:1",
+   "value": 1390,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "50b64eca2165595df6d1d62d553d2d91c99ecccb4b47323d7b0b0f6d828b8112:0",
+   "value": 8043,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e20ce7b6b471fe3d9df19e004709e0ecf0d679f83737800f6583b2675ce51b53:0",
+   "value": 652,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "073495bc7b20fa85ead6cb1de1d6d26825b55311f6e0a2816779ece5e3293f95:0",
+   "value": 10016,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4a757cdcd4a4af761ce7b5c392ea8f4db37cd035591fb4556c9ea9bbc13fcb32:1",
+   "value": 462,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a536867093fffc64ab8d1728897085f5da94b22469b0ffa48ebc972d951a4bb7:2",
+   "value": 12682,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3f50cd460d3f04b55ce52df4ffdfd628da03c5a1154a418eb6923925dfebe65e:2",
+   "value": 718,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "7f296f13d762a9f4f524baddd043e70944eea464732c1f49d4257d482e5eb5a9:0",
+   "value": 35864,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "315981ad3de8c553be9f97596fe4d159e948dfc394e83f6390a3a437c30c2027:1",
+   "value": 14115,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5cc84855d85f52c3eec32f6f1784974db17e9b23dc73b8471c4b24aca85e47b3:3",
+   "value": 1110,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f316a48d2fcc66820950e7e78260be06a2cd1e4331ca90ecb61d890bd693cd61:1",
+   "value": 3520,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "0d26b56bac32eabd38d5c9da921a3f7401f2b93148a067b774028a784c0268e7:1",
+   "value": 482,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "26168a80263d868d67c83dfb4db201946d2da6f4156b7ade361b0264b5d080b4:1",
+   "value": 14007,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "31696ee85e9d0cc46fe8660eb0d5a3a08c934f4cf49a70e7e32d50105c45e96c:3",
+   "value": 581,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "6ef2d0ae0aabc6f055e35b344c069adddadc0b52096e6e72af65aecdeb6b0e43:2",
+   "value": 43304,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4914a5e3bec6f540c66df928be934b29fade18fa92863b52ff68da24938d7db7:1",
+   "value": 1234,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "cd80ea4bd7e45d2f97a5f4e79808a5e9aafcbd59714b5129051733fa617deac4:1",
+   "value": 6543,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3baf69ff6fbb4326aa8175ba7a69060912a9dfe5fffb2b4b9859a3e00e724541:1",
+   "value": 47790,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "ed49c6ed3de69e93dc911d864f5bff8579bf400dbf055468a65ca1b53af4104d:3",
+   "value": 297118,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4d81bb85f37ce518233149dd768beda5412c24ee1459cb7ebd8fdd38d4bc7f72:0",
+   "value": 1858,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fa034c1a685b268a8bbbedc278f91d6b53ea976c0fc95837159b4060e2cda6cf:3",
+   "value": 997,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fb1859094741dd5c170ac88151adec3478dbfd50d1fe5c1f9e0f1389cc9dd69e:2",
+   "value": 5056,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9aec8de810db763c0b27a46f206ffe0933b32ef523437623f052cf011e5a16fd:2",
+   "value": 14178,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "41b3c59b3275bb4efb1bc6990f96a5327c3b7873dec2750c6ff92bee9b9d4616:0",
+   "value": 3304,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e41ae04f19c41a260850bb908e7e4d56e2281ef808e5cb8767f3d7883d4be62d:2",
+   "value": 541,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4db7e8c100622c32df6d86b04922fa561448f64385a33e889903e4631aa292d8:2",
+   "value": 3183,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1d56cffae11dee898630d50f421f0d66c59000503749fec2638380c0a18483bb:1",
+   "value": 5959,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "08d12986118785733725ad6a6a8dab883baafbe969ab2920169725feb7fe435b:0",
+   "value": 2529,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b911e2642916f74f246e6a61ebb8a6fbe8a61d0adfcde4fdcf75525604a34b4b:2",
+   "value": 745,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d34bbe1035b9b85352ed8b1e8e700942df1c55d271eef82a48f8836422d56b90:3",
+   "value": 1251,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "41c9244202e8f910b5e6e32a0c682bb01aa1984f9389ded00db4b98a19241c16:2",
+   "value": 1318,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9161d6368804d143b483e03e105db0fdc206b2ec8c1b733b64eee86bd0126f3e:1",
+   "value": 788,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "2cc27e400cca3a457bf32135f9eb78a07e4b733900f0aa1996f6eaeab5d16def:0",
+   "value": 2395,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "5277b1cc337dc21674485333ee8d75d5ba92494f45043b58427ea1efa786f712:3",
+   "value": 10526,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b85d0ddac5a5ff0bfa8991a5a5b030253dcead99ec6259976389df738b4d874a:1",
+   "value": 99388,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c312bc2bc1ce9f12fc69f0364adb1d4ad5663deca042b77aa36002ac4ae821b3:3",
+   "value": 34563,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4b29b8b3d8590b45eaace1c5436b47e1014d124300943eac81e88b26122b2fd8:0",
+   "value": 1237,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "31f2105862c5725a63625855b9ef323e37f34a6df22479448b1840caffa2b30a:3",
+   "value": 52892,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "8471851090e20f16509290e1069bbf2b2b448240713aaf874048bea4b5b05d14:1",
+   "value": 1331,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "bd4acbbd9a53cc257f3ba707a843c5110388a926c0fa6873a7de1dc5624d4bbd:2",
+   "value": 313545,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e7cbac30750d97e7ccb7cfbd8345548edc0122e3776feaecb27d784f4d253f0a:2",
+   "value": 13069,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d5aa2a7522b59d9e7ab9bf62416f30a3e2404e26041db8e93e7886c472907a4b:2",
+   "value": 2288,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c0731a4c48b68a7a32ddf4ca6c3966b35e37d97823ac82e47c1a2739aa04a4f6:2",
+   "value": 1284,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "57584a83cb0cf460d47a4c58bb5b008219592c5165498eab798d2160ca5c0020:0",
+   "value": 1564,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9ee3aabef846d9b1baf3bc57cd70b2484d3439897e5048756030031f8668c008:3",
+   "value": 3842,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "b85540fb752d273e9a50874597444dc7504b4dbe22e23e93c21e0592f5871440:0",
+   "value": 6447,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4163be5c01b15e200c0c4fd659e324d09d8e9d1c1a7d6ec36188757357983fc2:3",
+   "value": 7805,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "52f2238508b68276f6acd6600c47b6eadb0cda1e5e9023db8d63b796ab938d2d:2",
+   "value": 14287,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d433d58fba67f259e5640be2ba6cf3f56d6714e1b9e7241b78f83bdceaebd5dc:2",
+   "value": 43257,
+   "labels": [
+    "merchant_sales"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "499f16d952ff99b479b8099d7f8a376b7ac5f2fd1cc7e13b3897aeaec14018fa:0",
+   "value": 10466,
+   "labels": [
+    "atm"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "1bd5f37e14a12887bf8fb3b6a048fc6501307b5e808b1fc5fe97e94cd1f1dfa5:2",
+   "value": 2237,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "6f9153a80d9bcaa43542f2fb6c93f965b9023f80bce563afcf0ab19461d01302:0",
+   "value": 478,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p000",
+   "amount": 10000,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p001",
+   "amount": 10000,
+   "fee_rate": 2,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p002",
+   "amount": 65825,
+   "fee_rate": 3,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p003",
+   "amount": 88598,
+   "fee_rate": 2,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p004",
+   "amount": 110000,
+   "fee_rate": 3,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p005",
+   "amount": 24756,
+   "fee_rate": 1,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p006",
+   "amount": 10000,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "98a380432df845cd04818bc6d822380a0abd88c72360a244064b54b0dc6e5af7:0",
+   "value": 933,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p007",
+   "amount": 105790,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p008",
+   "amount": 10000,
+   "fee_rate": 3,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p009",
+   "amount": 50000,
+   "fee_rate": 3,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p010",
+   "amount": 10000,
+   "fee_rate": 2,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p011",
+   "amount": 60147,
+   "fee_rate": 1,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p012",
+   "amount": 30000,
+   "fee_rate": 3,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p013",
+   "amount": 110000,
+   "fee_rate": 1,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p014",
+   "amount": 120000,
+   "fee_rate": 1,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p015",
+   "amount": 20000,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p016",
+   "amount": 60000,
+   "fee_rate": 33,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p017",
+   "amount": 10000,
+   "fee_rate": 50,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p018",
+   "amount": 10358,
+   "fee_rate": 24,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p019",
+   "amount": 60000,
+   "fee_rate": 33,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p020",
+   "amount": 29031,
+   "fee_rate": 29,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p021",
+   "amount": 21345,
+   "fee_rate": 29,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p022",
+   "amount": 10000,
+   "fee_rate": 36,
+   "priority": "min_cost"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4131473396d19be6e6b4d08f21cc09da136bedbb847ef87b62813ab875772a91:1",
+   "value": 1229,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p023",
+   "amount": 10000,
+   "fee_rate": 36,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p024",
+   "amount": 10000,
+   "fee_rate": 36,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p025",
+   "amount": 24920,
+   "fee_rate": 25,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p026",
+   "amount": 33483,
+   "fee_rate": 24,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p027",
+   "amount": 10000,
+   "fee_rate": 29,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p028",
+   "amount": 157430,
+   "fee_rate": 1,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p029",
+   "amount": 10000,
+   "fee_rate": 5,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p030",
+   "amount": 14118,
+   "fee_rate": 3,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p031",
+   "amount": 60000,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p032",
+   "amount": 33608,
+   "fee_rate": 3,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p033",
+   "amount": 20000,
+   "fee_rate": 5,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p034",
+   "amount": 127816,
+   "fee_rate": 1,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p035",
+   "amount": 85896,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p036",
+   "amount": 50000,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "f5e375a565615f790934d1b52055e864145c8d7dba9a3862554d699015e5c64f:2",
+   "value": 2628,
+   "labels": [
+    "donations"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p037",
+   "amount": 100000,
+   "fee_rate": 1,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p038",
+   "amount": 65701,
+   "fee_rate": 3,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p039",
+   "amount": 12318,
+   "fee_rate": 3,
+   "priority": "balanced"
+  }
+ ]
+}

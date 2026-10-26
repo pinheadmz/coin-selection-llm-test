@@ -1,0 +1,5 @@
+{
+  "language": "rust",
+  "build": ["cargo", "build", "--release", "--quiet", "--offline"],
+  "run": ["./target/release/coinselect"]
+}

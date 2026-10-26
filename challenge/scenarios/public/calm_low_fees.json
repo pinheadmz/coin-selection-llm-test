@@ -1,0 +1,457 @@
+{
+ "name": "calm_low_fees",
+ "seed": "public-1",
+ "long_term_fee_rate": 10,
+ "events": [
+  {
+   "type": "utxo",
+   "outpoint": "ac2e20bd71ae33853392d8ded0550bde4f83017a5dc25ac9afa73124eae007ff:0",
+   "value": 1961219,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "cb80929d26ad46480f0122c557c9fa98cc459ae69e221d742d0eb7637a7fb4c0:3",
+   "value": 656059,
+   "labels": [
+    "coinjoin"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "174282c2b4c4347aaadeccfad113cf53f1ea06b05955fd32d03956032f659292:1",
+   "value": 86450,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "bd44b6346fdda3b7ebd2849a969f9d67d23c4fbc8a3587bb79f3f5d62b0bdeff:3",
+   "value": 8479,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "76694976c057b758fb345add72f125c9f1d342c4704aa6a63e9b4407f3316cb5:2",
+   "value": 35883,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "4021c5958d8c82c049ff5e78f48abcb93ca2a49a17726e4a24ce5dcc8a47ca60:2",
+   "value": 143465,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "45b1a7f55c413ede6b0da2d7257863bbacbbda54a17117e3430e30e00ecb157d:1",
+   "value": 302701,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3e164a7ebe88a6d62284d3a42d741b03317427126ab18af8f824830f9b15f2c8:0",
+   "value": 1399126,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "40a698015a2466e2db5108d37bafd01e6d8fd77242d3ae5f7a641ff36224841b:3",
+   "value": 192079,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e6a5ac77fb70ac22e380fbe6ba371e728b0c8c30041ede74a460744e190f0fdc:3",
+   "value": 13429,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e88369d6ee4c4d5163347f9cc67c62e1b5d422cffc2e8693488b454ff64b9044:2",
+   "value": 43076,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "71cce495b79230aef7431e925e9aea21a78f14bbeb74e3bbd44463448c7c7839:1",
+   "value": 397642,
+   "labels": [
+    "coinjoin"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "8f62241d443ab135d4afa524e76ad530235f7608dc906795f2d026790dd8ae41:3",
+   "value": 80975,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "aec7853d79397e24064ffe3960e2bba9e71eeac2b2f646ea4e91e394f2a7281d:0",
+   "value": 2232374,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "e15972bf83af07a35cbb34d1fb08cef9f9df69e0bb3cc9588344d66ae878be23:3",
+   "value": 772896,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "12019909b9b4e520d001179ff4a3c092031f4608019e996d3bfddebeaf93a0af:1",
+   "value": 128806,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "fd9c0832bc9826268a83e5b784482fce8b1fdb874cb9230938f434abdec4e382:3",
+   "value": 78668,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "651c5aef34ca6dbda23adfdbfed7310f632f7322c14a348c376f62a9df200f37:0",
+   "value": 79810,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3f6246b4f30babb46ebb74af3e0959556f7c6c5f2b878eaca2e173d9f1eb1d8f:1",
+   "value": 14904,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a397b0533b54d4c2cf3dbf69f81505e6bbe265c4432411cf9ac9311e7e8c9767:3",
+   "value": 31514,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c0de7ee5825971af9d60ab5f4729bfb4a4527c197d63dbcb7edf4133e5af7b6e:0",
+   "value": 117108,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "be938c6a271962f74b81338f0cf00dc579debd747d907a61a7a923ad5496350e:2",
+   "value": 12622,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "64c65577aa26f2e6ddf51b42151a15e27a1395eccb752e51a25157c030c165e3:3",
+   "value": 2279088,
+   "labels": [
+    "gift"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "a6e7d36034338fd0c2acac78f93c6bc450c20347d00673bb08075c50c3616e59:3",
+   "value": 2017562,
+   "labels": [
+    "exchange_kyc"
+   ]
+  },
+  {
+   "type": "utxo",
+   "outpoint": "d852fcef2c88ae086e084cfceb0f778dfefe4c8e9edb90d5bdc808565cd672f5:1",
+   "value": 1141218,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p000",
+   "amount": 20000,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p001",
+   "amount": 26258,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p002",
+   "amount": 287890,
+   "fee_rate": 4,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p003",
+   "amount": 50000,
+   "fee_rate": 3,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p004",
+   "amount": 10000,
+   "fee_rate": 8,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p005",
+   "amount": 69659,
+   "fee_rate": 1,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p006",
+   "amount": 20000,
+   "fee_rate": 1,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p007",
+   "amount": 20000,
+   "fee_rate": 4,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p008",
+   "amount": 30000,
+   "fee_rate": 2,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p009",
+   "amount": 70000,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "9a380dd20f2a9955d225f0a1f20ea55b2c8c1f07fe23378f9582e3490ef41e15:0",
+   "value": 24900,
+   "labels": [
+    "p2p_trade"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p010",
+   "amount": 50000,
+   "fee_rate": 4,
+   "priority": "min_cost"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "98b63f55d3e2cd30d2a759b3b8f580f26bb63cd2280a1114fe2007338deec61c:1",
+   "value": 147056,
+   "labels": [
+    "mining_payout"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p011",
+   "amount": 11357,
+   "fee_rate": 2,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p012",
+   "amount": 165465,
+   "fee_rate": 2,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p013",
+   "amount": 160000,
+   "fee_rate": 1,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p014",
+   "amount": 360000,
+   "fee_rate": 8,
+   "priority": "balanced"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "3040f874139ef8a43cf98ef6e3763b6e97ec1d2c396ff9aa44b6edf85598485b:1",
+   "value": 22068,
+   "labels": [
+    "airdrop"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p015",
+   "amount": 20000,
+   "fee_rate": 8,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p016",
+   "amount": 350000,
+   "fee_rate": 4,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p017",
+   "amount": 30000,
+   "fee_rate": 1,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p018",
+   "amount": 41158,
+   "fee_rate": 3,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p019",
+   "amount": 120000,
+   "fee_rate": 7,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p020",
+   "amount": 203190,
+   "fee_rate": 7,
+   "priority": "privacy"
+  },
+  {
+   "type": "pay",
+   "id": "p021",
+   "amount": 150000,
+   "fee_rate": 8,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p022",
+   "amount": 30000,
+   "fee_rate": 2,
+   "priority": "min_cost"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "c3927ce4d608af0409df0c06754209c13db5abf1735d51dd05bba2068c031993:2",
+   "value": 27932,
+   "labels": [
+    "coinjoin"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p023",
+   "amount": 10000,
+   "fee_rate": 2,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p024",
+   "amount": 79124,
+   "fee_rate": 6,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p025",
+   "amount": 378428,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p026",
+   "amount": 10000,
+   "fee_rate": 8,
+   "priority": "min_cost"
+  },
+  {
+   "type": "pay",
+   "id": "p027",
+   "amount": 200000,
+   "fee_rate": 1,
+   "priority": "balanced"
+  },
+  {
+   "type": "pay",
+   "id": "p028",
+   "amount": 30000,
+   "fee_rate": 2,
+   "priority": "privacy"
+  },
+  {
+   "type": "utxo",
+   "outpoint": "740c12329b48b558c9f3357db61431a0ac432802d56ad10c9c16c21d93712a77:1",
+   "value": 762514,
+   "labels": [
+    "freelance"
+   ]
+  },
+  {
+   "type": "pay",
+   "id": "p029",
+   "amount": 30000,
+   "fee_rate": 3,
+   "priority": "min_cost"
+  }
+ ]
+}

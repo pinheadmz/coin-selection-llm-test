@@ -1,0 +1,11 @@
+[package]
+name = "coinselect"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Only the Rust standard library is available during official evaluation
+# (no network). Vendor anything else into this directory.
+
+[profile.release]
+opt-level = 3
